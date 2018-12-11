@@ -1,3 +1,3 @@
 # minimetagenomics
 
-# this repository is for storing minimetagenomics python notebooks
+this repository is for storing minimetagenomics python notebooks
